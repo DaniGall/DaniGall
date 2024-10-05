@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA in C++ 
 - 💞️ I’m looking to collaborate on projects that have positive impacts 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I enjoy rock climbing 
+ 
 
 <!---
 DaniGall/DaniGall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
