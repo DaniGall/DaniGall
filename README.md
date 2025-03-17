@@ -1,30 +1,8 @@
-<h1 align="center">Daniela Gallego</h1>
+<h1 align="center">Hi, I'm Daniela Gallego! ✨</h1>
 
 <p align="center">
   CS student at <a href="https://www.mercy.edu/">Queens College</a>. Fellow at <a href="https://www.codepath.org/">CodePath</a>.
 </p>
-
-<p align="center">
-  Aspiring Project Manager and Software Engineer enthusiastic about transforming ideas into impactful projects.
-  <!--I previously built a brand and sold products on Amazon, which provided me with invaluable entrepreneurial insights. I am passionate about continuous self-development, and you’ll often find me immersed in the latest self-improvement books and courses, meditating for a moment of zen, or hitting the gym for a good workout.-->
-</p>
-
-<p align="center">
-   <a href="mailto:ddgallego99@gmail.com">ddgallego99@gmail.com</a>
-</p>
-
-<div align="center" style="font-family: Courier New, monospace; font-size: 24px; font-weight: bold; margin-top: 20px;">
-  .. ────────────────── <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="50"/> ────────────────── ..
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniela-dgallego" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</p>
-
-
-
-<h1 align="center">Hi, I'm Daniela Gallego! ✨</h1>
 
 ### About Me
 - 🎓 **Undergraduate Student** at **Queens College**, majoring in **Computer Science**.
@@ -44,3 +22,14 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+  <div align="center" style="font-family: Courier New, monospace; font-size: 24px; font-weight: bold; margin-top: 20px;">
+  .. ────────────────── <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="50"/> ────────────────── ..
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniela-dgallego" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</p>
+
