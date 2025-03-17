@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @DaniGall
-- 👀 I’m interested in Javascript, Java, C++, Python
-- 🌱 I’m currently learning DSA in C++ 
-- 💞️ I’m looking to collaborate on projects that have positive impacts 
-- 😄 Pronouns: She/Her 
- 
+<h1 align="center">Daniela Gallego</h1>
 
-<!---
-DaniGall/DaniGall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  CS student at <a href="https://www.mercy.edu/">Queens College</a>. Fellow at <a href="https://www.codepath.org/">CodePath</a>.
+</p>
+
+<p align="center">
+  Aspiring Project Manager and Software Engineer enthusiastic about transforming ideas into impactful projects.
+  <!--I previously built a brand and sold products on Amazon, which provided me with invaluable entrepreneurial insights. I am passionate about continuous self-development, and you’ll often find me immersed in the latest self-improvement books and courses, meditating for a moment of zen, or hitting the gym for a good workout.-->
+</p>
+
+<p align="center">
+   <a href="mailto:ddgallego99@gmail.com">ddgallego99@gmail.com</a>
+</p>
+
+<div align="center" style="font-family: Courier New, monospace; font-size: 24px; font-weight: bold; margin-top: 20px;">
+  .. ────────────────── <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="50"/> ────────────────── ..
+</div>
+
+<p align="center">
+  <a href="www.linkedin.com/in/daniela-dgallego" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</p>
