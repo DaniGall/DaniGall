@@ -7,7 +7,7 @@
 ### About Me
 - 🎓 **Undergraduate Student** at **Queens College**, majoring in **Computer Science**.
 - 💻 Passionate about **Full Stack, Backend Development, and Data Engineering**.
-- Attended **CodePath** Technical Interview Prep **TIP-102** (Summer, 2024)
+- Attended **CodePath** Technical Interview Prep **TIP-102** (Summer, 2024), Web Development **WebDev-101** (Fall, 2024)
 
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-dgallego)
