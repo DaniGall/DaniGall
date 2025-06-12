@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniela Gallego! ✨</h1>
 
 <p align="center">
-  CS student at <a href="https://www.mercy.edu/">Queens College</a>. Fellow at <a href="https://www.codepath.org/">CodePath</a>.
+  CS student at <a href="https://www.qc.cuny.edu/">Queens College</a>. Fellow at <a href="https://www.codepath.org/">CodePath</a>.
 </p>
 
 ### About Me
