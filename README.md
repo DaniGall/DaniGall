@@ -6,7 +6,7 @@
 
 ### About Me
 - 🎓 **Undergraduate Student** at **Queens College**, majoring in **Computer Science**.
-- 💻 interested in **Full Stack, Backend Development, and Data Engineering**.
+- 💻 I'm interested in **Full Stack, Backend Development, and Data Engineering**.
 - Attended **CodePath** Technical Interview Prep **TIP-102** (Summer, 2024), Web Development **WebDev-101** (Fall, 2024)
 
 ### 📬 Let's Connect!
